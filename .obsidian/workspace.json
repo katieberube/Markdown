@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5196e30071e0a80",
+        "id": "0ca4cdd472a493bf",
         "type": "tabs",
         "children": [
           {
-            "id": "8bd8b1fb86275868",
+            "id": "172465f15f20132e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-13-24 Note 1.md",
+                "file": "08-13-24 Note 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08-13-24 Note 1.md",
+                "file": "08-13-24 Note 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08-13-24 Note 1.md"
+                "file": "08-13-24 Note 2.md"
               }
             }
           }
@@ -144,6 +144,7 @@
   },
   "active": "e201e9737d744fc8",
   "lastOpenFiles": [
+    "08-13-24 Note 2.md",
     "08-13-24 Note 1.md"
   ]
 }
